@@ -41,7 +41,7 @@ I build **scalable, user-friendly web applications** and explore **AI & data-dri
 - Product catalog & shopping cart  
 - Order management and payment simulation  
 - Responsive design  
-**GIF Demo:** ![Demo](./demo-inflatable.gif)  
+
 
 ---
 
@@ -52,7 +52,6 @@ I build **scalable, user-friendly web applications** and explore **AI & data-dri
 - Interactive charts & real-time updates  
 - Data filtering and search  
 - Responsive visualization  
-**GIF Demo:** ![Demo](./demo-stock.gif)  
 
 ---
 
@@ -63,10 +62,9 @@ I build **scalable, user-friendly web applications** and explore **AI & data-dri
 - Scheduling and appointment tracking  
 - Patient records management  
 - Admin dashboard for staff  
-**GIF Demo:** ![Demo](./demo-clinic.gif)  
 
 ---
 
 ## 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamar055670@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamar055670)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamar-el)  
