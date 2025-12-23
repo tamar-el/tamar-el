@@ -31,11 +31,6 @@ I build **scalable, user-friendly web applications** and explore **AI & data-dri
 
 ---
 
-## 📊 GitHub Stats
-![Tamar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamar055670&show_icons=true&theme=radical)
-
----
-
 ## 🚀 Featured Projects
 
 ### Inflatable Rental Website
@@ -75,4 +70,3 @@ I build **scalable, user-friendly web applications** and explore **AI & data-dri
 ## 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamar055670@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamar055670)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
